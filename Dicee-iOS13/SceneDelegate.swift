@@ -1,10 +1,8 @@
 //
-//  SceneDelegate.swift
-//  Test
+//  File.swift
+//  Dicee-iOS13
 //
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
-//
+//  Created by Samet Korkmaz on 10.09.2023.
 
 import UIKit
 
