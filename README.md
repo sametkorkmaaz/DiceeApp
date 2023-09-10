@@ -1,5 +1,5 @@
 My first IOS mobile app.
 
-![](screenshots/screenshot1.png)
+![1](screenshots/screenshot1.png)
 
-![](screenshots/screenshot2.png)
+![2](screenshots/screenshot2.png)
